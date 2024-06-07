@@ -90,6 +90,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ### Contact
 For questions, please reach out to: 
-- lguyenhieu24lk@gmail.com
+- nguyenhieu24lk@gmail.com
 - lexuantam761311@gmail.com
 - nguyenngocsang051003@gmail.com
